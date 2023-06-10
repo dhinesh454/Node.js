@@ -1,0 +1,16 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "nodewmon task10 ",
+  "main": "Routing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Routing.js",
+    "start-server": "node Routing.js"
+  },
+  "author": "Dhinesh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
